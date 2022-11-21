@@ -6,3 +6,5 @@ The knowledge from this training will be added to the 🌱 Orion (the digital ga
 
 # History
 **L1 | Basic Authentication** - Implemented basic authentication dummy ✔
+**L2 | Generating JWT Tokens** - Added part of code which allows me generate JWT Token ✔ 
+
